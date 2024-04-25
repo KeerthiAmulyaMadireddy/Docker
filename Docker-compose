@@ -1,0 +1,2 @@
+$ docker-compose up
+this is pull images of multiple applications with single docker compose file.
